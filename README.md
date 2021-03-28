@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on EmporioLambda, an e-commerce with a serverless architecuture and microservice pattern.
+- 🔭  I’m currently working on EmporioLambda, an e-commerce with a serverless architecuture and microservices pattern.
 More infos here: <a href="https://www.math.unipd.it/~tullio/IS-1/2020/Progetto/C2.pdf">EmporioLambda</a>
 - 🌱  I’m currently learning serverless framework, REST API, Stripe payment API, DynamoDB, AWS Cognito, AWS Lambda, microservices architecture.
 - 👯  I’m currently collaborating with these great people: <a href="https://github.com/swexception">SWException</a>
